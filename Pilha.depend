@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491687627 source:c:\estrutura de dados\treinamento\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+
